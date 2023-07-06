@@ -22,6 +22,7 @@
 
 Shahid Notes: Create manage your day-to-day activities, With a Great UI. 
 
+<img src="./shahidnotes.gif" />
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
